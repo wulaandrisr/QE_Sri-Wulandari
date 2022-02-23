@@ -1,2 +1,0 @@
-# versioning control with GIT
-
