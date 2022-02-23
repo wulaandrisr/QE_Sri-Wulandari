@@ -1,11 +1,10 @@
 # Software Testing as a Career Path
 ## Summary
 
-Dalam Section ini terdapat empat materi yang menjelaskan tentang :
+Dalam Section ini terdapat tiga poin yang menjelaskan tentang :
 1. Software Testing
-2. Non-Technical Skill
-3. Technical Skill
-4. Software Tester Career Path 
+2. Keterampilan yang dibutuhkan untuk menjadi penguji perangkat lunak
+3. Software Tester Career Path 
 
 ### Software Testing 
 Software Testing adalah proses penyempurnaan sistem/program komputer untuk memutuskan apakah sistem/program tersebut memenuhi persyaratan yang ditentukan dan menghasilkan hasil yang diinginkan
