@@ -34,11 +34,11 @@ Sebuah proses menganalisis item perangkat lunak untuk mendeteksi perbedaan antar
 - ACCEPTANCE TESTING is a level of software testing where a system is tested for acceptability.
 
 ## Task
-1.ini merupakan pengujian pada unit laporan
-2.dalam project Android Studio, kuta harus menyimpan file sumber untuk pengujian unit lokal di module-name/src/test/java/. Direktori ini sudah ada saat Kita membuat project baru.
-3.kita juga perlu mengonfigurasi dependensi pengujian untuk project agar dapat menggunakan API standar yang diberikan oleh framework JUnit 4.
-4.Jika pengujian Anda perlu berinteraksi dengan dependensi Android, sertakan Robolectric atau library Mockito untuk menyederhanakan pengujian unit 
-5.jika warna Hijau, itu berarti semua garis tersebut tercakup dalam pengujian Junit.
-6.Jika warna Merah, itu berarti semua garis tersebut tidak tercakup dalam pengujian Junit.
-7.Jika warna Kuning, itu berarti pengujian telah melewati garis tersebut tetapi tidak semua kasus uji telah tercakup.
-8.persentase cakupan telah meningkat dari 67% menjadi 100% untuk kelas CalculatorServiceImpl dan juga baris kode untuk metode add() sekarng memiliki warna hijau setelah menjalankan cakupan, yang berarti bahwa baris ini dicakup oleh tes Junit.
+1. ini merupakan pengujian pada unit laporan
+2. dalam project Android Studio, kuta harus menyimpan file sumber untuk pengujian unit lokal di module-name/src/test/java/. Direktori ini sudah ada saat Kita membuat project baru.
+3. kita juga perlu mengonfigurasi dependensi pengujian untuk project agar dapat menggunakan API standar yang diberikan oleh framework JUnit 4.
+4. Jika pengujian Anda perlu berinteraksi dengan dependensi Android, sertakan Robolectric atau library Mockito untuk menyederhanakan pengujian unit 
+5. jika warna Hijau, itu berarti semua garis tersebut tercakup dalam pengujian Junit.
+6. Jika warna Merah, itu berarti semua garis tersebut tidak tercakup dalam pengujian Junit.
+7. Jika warna Kuning, itu berarti pengujian telah melewati garis tersebut tetapi tidak semua kasus uji telah tercakup.
+8. Persentase cakupan telah meningkat dari 67% menjadi 100% untuk kelas CalculatorServiceImpl dan juga baris kode untuk metode add() sekarng memiliki warna hijau setelah menjalankan cakupan, yang berarti bahwa baris ini dicakup oleh tes Junit.
