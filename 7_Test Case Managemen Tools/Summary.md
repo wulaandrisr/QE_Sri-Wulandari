@@ -1,22 +1,20 @@
-### Test Case Managemenet Tool
+# Test Case Management Tools
+## Resume
+Point dari materi yang kami pelajari dalam section ini adalah
+- Penjelasan Test Case Management Tool
+-  Jenis Test Case Management Tools
+- Mengetahui Cara Pengunaan Test Rail
+### Test Case Management Tools
+Test Case Management Tools adalah situs atau software yang digunakan software tester untuk menyimpan informasi terkait bagaimana pengujian produk harus dilakukan, perencanaan kegiatan pengujian serta dokumen terkait pelaporan status kegiatan penjaminan kualitas produk.
 
-### RESUME
-1. penjelasan Test Case Management Tool
-2. Melakukan test case Positif dan Negatif
-3. Mengetahui cara Pengunaan Test Rail
-
-### PENGERTIAN TEST CASE MANAGEMENT TOOL
-situs atau software yang digunakan oleh software tester untuk meyimpan informasi bagaimana pengujian produk harus dilakukan,perencanaan kegiatan pengujian serta dokumen pelaporan status kegiatan jaminan kualitas produk.
-
-### kenapa diperlukan Test Case Management Tool
-1. plan dan estimate yang dibuat dalam test plant berisi fitur dan hal-hal apa saja yang dibutuhkan.
-2. Monitoring dan Controling,  kita dapat memonitori proses collecting,recording dan reporting serta dapat mengontrol data-data yang dibuat dalam satu tempat.
-3. reporting and integrate with another tools, dapat automatis.
-
+Kenapa kita membutuhkan test case managemen tools?
+1.	Plant and Estimate : Dalam test case management tools plan dan estimasi yang kita buat diiformasikan dalam bentuk test plan, dimana didalam test plan itu sendiri berisi tentang fitur apa saja yang akan ditest dalam planning saat itu, fitur apa saja yang tidak ditest pada saat planning tersebut, hal-hal apa saja yang berhubungan dengan test tersebut, berapa banyak sumber daya yang dibutuhkan dan informasi dari jadwal itu sendiri. Setelah kita mengetahui detail projeknya maka kita bisa membuat estimasi untuk projek itu sendiri.
+2.	Monitoring dan Controling,  kita dapat memonitori proses collecting, recording dan reporting serta dapat mengontrol data-data yang dibuat dalam satu tempat.
+3.	Reporting and Integrate with Another Tools. Beberapa test case management tools dapat dilakukan dengan beberapa tools seperti : JIRA, Pivotal, Redmine, Jenkins, Travis, CI.
 ### Jenis Test Case Management Tools
-1. Test Rail
-2. Test Link
-3. Zophyr
-3. Q-test
-4. PractiTest
-5. TcLab
+- Test Rail
+- Test Link
+- Zophyr
+- Q-test
+- PractiTest
+- TcLab
